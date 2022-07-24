@@ -1,0 +1,22 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "I created this repository because I want to practice my knowledge of async functions in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvaro8317/async-landingPage.git"
+  },
+  "author": "Alvaro Garzón - Alvaro8317 <eduardo831_@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alvaro8317/async-landingPage/issues"
+  },
+  "homepage": "https://github.com/Alvaro8317/async-landingPage#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
